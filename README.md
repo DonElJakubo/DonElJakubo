@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonElJakubo
-- 👀 I’m interested in programing (Java, PHP) and databases   
-- 🌱 I’m currently learning in Lowersilesia College 
-- 💞️ I’m looking to collaborate on databases / backend
+- 👀 I’m interested in programing (Java, PHP, Azure) and databases   
+- 🌱 I’m currently learning in Lowersilesia College in Wroclaw
+- 💞️ I’m looking to collaborate on databases / backend / frontend / fullstack
 - 📫 How to reach me on linkedin: www.linkedin.com/in/komorekjakub
 
 <!---
