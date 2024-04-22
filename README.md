@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakub Guth
-- 👀 I’m interested in programing (C#/.Net, SQL, Java, PHP, Azure)  
+- 👀 I’m interested in programing (C#/.Net, SQL, Java, AI, Azure)  
 - 🌱 I’m currently learning in Lowersilesia University in Wroclaw
 - 💞️ I’m looking to collaborate on databases / backend / frontend / fullstack
 - 📫 How to reach me on linkedin: www.linkedin.com/in/komorekjakub
